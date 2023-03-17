@@ -2,11 +2,10 @@
 
 
 /**
- * main - Programming is like building a multilingual puzzle, followed by a new line
+ * main - Programming is like building a multilingual puzzle;
  *
  * Return: always 0
  */
-
 
 int main(void)
 {
