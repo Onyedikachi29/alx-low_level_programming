@@ -4,7 +4,7 @@
 /**
  * main - program that prints all possible different combinations of two digits
  *
- * Return: alwaays  0
+ * Return: always 0
  */
 
 int main(void)
